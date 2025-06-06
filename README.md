@@ -25,6 +25,3 @@ Yami Sama (yami-pro)
 
 ## Steam, чтобы поддержать автора оригинала
 [Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
-
-## Steam, чтобы поддержать автора оригинала
-[Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
