@@ -1,4 +1,4 @@
-YaGameCreator модификация конструктора игр Yami RPG Editor. Нацеленное на интеграцию с Яндекс.Играми и сборкой под Android из коробки из под ОС Windows.
+YaGame Creator модификация конструктора игр Yami RPG Editor. Нацеленное на интеграцию с Яндекс.Играми и сборкой под Android из коробки из под ОС Windows.
 
 ## Установка 
 ```shell
@@ -25,6 +25,6 @@ Yami Sama (yami-pro)
 
 ## Steam, чтобы поддержать автора оригинала
 [Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
-=======
+
 ## Steam, чтобы поддержать автора оригинала
 [Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
