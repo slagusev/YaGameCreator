@@ -17,9 +17,10 @@ npm run start
 ```shell
 # windows
 npm run pack-win-x64
+```
 
 ## Автор оригинального Yami RPG Editor
 Yami Sama (yami-pro)
 [GitHub](https://github.com/yami-pro)
-# Steam, чтобы поддержать автора оригинала
+Steam, чтобы поддержать автора оригинала
 [Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
