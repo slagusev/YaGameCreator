@@ -22,5 +22,10 @@ npm run pack-win-x64
 ## Автор оригинального Yami RPG Editor
 Yami Sama (yami-pro)
 [GitHub](https://github.com/yami-pro)
+<<<<<<< HEAD
 ## Steam, чтобы поддержать автора оригинала
 [Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
+=======
+# Steam, чтобы поддержать автора оригинала
+[Купить Yami RPG Editor в Steam](https://store.steampowered.com/app/1964480/Yami_RPG_Editor/)
+>>>>>>> 63acf934dd0af5e6bdcb0dafcf064a89d9eb7218
