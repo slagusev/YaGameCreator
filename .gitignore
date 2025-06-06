@@ -1,0 +1,7 @@
+# ignore
+node_modules/
+Project/config.json
+Project/Templates/electron-win-x64/
+Project/Templates/electron-mac-universal.app/
+package-lock.json
+.DS_Store
